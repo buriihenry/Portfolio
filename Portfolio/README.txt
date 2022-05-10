@@ -1,1 +1,1 @@
-Personal Portfolio static page 
+Personal Portfolio one Pager
